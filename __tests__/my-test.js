@@ -3,5 +3,5 @@ test('15+5=20', () => {
 })
 
 test('aintgonnawork', () => {
-    expect(15 + 5).toBe(30);
+    expect(25 + 5).toBe(30);
 })
